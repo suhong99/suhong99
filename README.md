@@ -9,7 +9,7 @@
 <div>
       <h3>📔 GitHub Card</h3>
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhong99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="suhong99's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhong99&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+
 </div>
 
 <hr/>
