@@ -8,8 +8,8 @@
 <br>
 <div>
       <h3>📔 GitHub Card</h3>
+      [![suhong99's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhong99&&show_icons=true&theme=transparent)]
 </div>
-[![suhong99's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhong99&show_icons=true&theme=shadow_blue )]
 
 <hr/>
 <br>
