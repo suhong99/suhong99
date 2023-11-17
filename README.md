@@ -8,7 +8,7 @@
 <br>
 <div>
       <h3>📔 GitHub Card</h3>
-      [![suhong99's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhong99&&show_icons=true&theme=transparent)]
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnr1208&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api?username=suhong99&&show_icons=true&theme=transparent)"/>
 </div>
 
 <hr/>
