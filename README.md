@@ -8,7 +8,7 @@
 <br>
 <div>
       <h3>📔 GitHub Card</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=suhong99&&show_icons=true&theme=transparent"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhong99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="suhong99's github stats" />
 </div>
 
 <hr/>
