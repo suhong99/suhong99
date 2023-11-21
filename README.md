@@ -10,6 +10,8 @@
       <h3>📔 GitHub Card</h3>
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhong99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="suhong99's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhong99&layout=compact&theme=buefy&hide_border=true" /> |
 
+      <h3>  </h3>
+      [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=topic828)]
 </div>
 
 <hr/>
@@ -20,15 +22,15 @@
 <hr/>
 
 <div>      
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
- <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
- <img src="https://img.shields.io/badge/axios-F36633?style=for-the-badge&logo=axios&logoColor=white"> 
- <img src="https://img.shields.io/badge/yarn-FFB3C7?style=for-the-badge&logo=yarn&logoColor=white">
- <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
- <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=white">
- <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
- <img src="https://img.shields.io/badge/vercel-FD5750?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/axios-F36633?style=for-the-badge&logo=axios&logoColor=white"> 
+<img src="https://img.shields.io/badge/yarn-FFB3C7?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+<img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-FD5750?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=black">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -45,7 +47,7 @@
       <h3>✉️ Contect me </h3>
 </div>
 <hr/>
- <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jw1208159@gmail.com (mailto:bt01063767006@gmail.com)>
+ <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bt01063767006@gmail.com (mailto:bt01063767006@gmail.com)>
 <br>
 <br>
 
