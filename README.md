@@ -4,22 +4,22 @@
 <p>👨🏻‍💻 프론트 개발을 꾸준히 하고 있습니다.</p>
 <p>🎆  확장성, 재사용성에 대해서 고민하며 같이 일하고 싶은 개발자가 되려고 노력합니다.</p>
 <p>💡  새로운 기술에 도전하는 것을 즐겨합니다.</p>
-<br>
-<br>
+<hr/>
+
 <div>
       <h3>📔 GitHub Card</h3>
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhong99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="suhong99's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhong99&layout=compact&theme=buefy&hide_border=true" /> 
-
      
 </div>
+<hr/>
+
  <h3>	💻 백준 등급</h3>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=topic828" />
 <hr/>
-<br>
+
 <div>
       <h3>🛠 Tech Stack </h3>
 </div>
-<hr/>
 
 <div>      
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -40,16 +40,13 @@
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
 </div>
+<hr/>
 
-<br>
-<br>
 <div>
       <h3>✉️ Contect me </h3>
 </div>
-<hr/>
  <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bt01063767006@gmail.com (mailto:bt01063767006@gmail.com)>
-<br>
-<br>
+<hr/>
 
 
 
