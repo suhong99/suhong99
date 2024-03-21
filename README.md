@@ -49,8 +49,6 @@
 <hr/>
 
 
-
-- 🌱 I’m currently learning NEXT.JS...
-- 🌱 I’m currently reading 나는 우아한 타입스크립트 with React....
+- 🌱 [블로그](https://ungumungum.tistory.com/)에서 학습 내용을 기록 및 공유하고 있습니다.
 
 -->
