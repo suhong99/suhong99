@@ -42,8 +42,10 @@
 <hr/>
 
 <h3>✉️ Contect me </h3>
+<div>
+ <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bt01063767006@gmail.com (mailto:bt01063767006@gmail.com)/>
+</div>
 
- <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bt01063767006@gmail.com (mailto:bt01063767006@gmail.com)>
 <hr/>
 
 
