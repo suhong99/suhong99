@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<br>
 - 🌱 [블로그](https://ungumungum.tistory.com/)에서 학습 내용을 기록 및 공유하고 있습니다.
 - 🌱 [아티클 후기](https://articlemoa.tistory.com/)에서 아티클에 대한 후기를 작성하며 정리하고 있습니다.
 
