@@ -2,9 +2,9 @@
 - 🌱 [블로그](https://ungumungum.tistory.com/)에서 학습 내용을 기록 및 공유하고 있습니다.
 - 🌱 [아티클 후기](https://articlemoa.tistory.com/)에서 아티클에 대한 후기를 작성하며 정리하고 있습니다.
 
-- 현재는 소프트웨어에 대한 지식을 향상시키기 위해, 정보처리기사 자격증을 공부중입니다.(필기 합격 , 7월 28 실기)
-<p>🎆  확장성, 재사용성에 대해서 고민하며 같이 일하고 싶은 개발자가 되려 합니다.</p>
-<p>💡  새로운 기술에 도전하는 것을 즐겨하고 추후 오픈소스에 기여할 수 있는 개발자가 되고 싶습니다.</p>
+- 현재는 소프트웨어에 대한 지식을 향상시키기 위해, 정보처리기사 자격증을 공부중입니다.(필기 합격 , 가채점 70점)
+- 🎆  확장성, 재사용성에 대해서 고민하며 같이 일하고 싶은 개발자가 되려 합니다.
+- 새로운 기술에 도전하는 것을 즐겨하고 추후 오픈소스에 기여할 수 있는 개발자가 되고 싶습니다.
 <hr/>
 <h3>📔 GitHub Card</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhong99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="suhong99's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhong99&layout=compact&theme=buefy&hide_border=true" /> 
