@@ -5,6 +5,8 @@
 - 소프트웨어에 대한 지식을 향상시키기 위해, 정보처리기사 자격증을 취득하였습니다.
 - ![image](https://github.com/user-attachments/assets/337576ed-33a6-4dcb-9057-000d4ec49a09)
 
+- ![image](https://github.com/user-attachments/assets/fd8130fc-2a31-4dc4-985a-55a18fc27b29)
+
 - 🎆  확장성, 재사용성에 대해서 고민하며 같이 일하고 싶은 개발자가 되려 합니다.
 - 새로운 기술에 도전하는 것을 즐겨하고 추후 오픈소스에 기여할 수 있는 개발자가 되고 싶습니다.
 <hr/>
@@ -50,6 +52,7 @@
 </div>
 
 <hr/>
+
 
 
 
