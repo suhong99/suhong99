@@ -2,7 +2,7 @@
 - 🌱 [블로그](https://ungumungum.tistory.com/)에서 학습 내용을 기록 및 공유하고 있습니다.
 - 🌱 [아티클 후기](https://articlemoa.tistory.com/)에서 아티클에 대한 후기를 작성하며 정리하고 있습니다.
 
-- 소프트웨어에 대한 지식을 향상시키기 위해, 정보처리기사 자격증을 취득하였습니다.
+- 소프트웨어에 대한 지식을 향상시키기 위해, 정보처리기사 자격증을 취득하였습니다.(2024.09.10)
 - ![image](https://github.com/user-attachments/assets/337576ed-33a6-4dcb-9057-000d4ec49a09)
 
 - ![image](https://github.com/user-attachments/assets/fd8130fc-2a31-4dc4-985a-55a18fc27b29)
